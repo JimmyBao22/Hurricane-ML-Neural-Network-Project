@@ -1,0 +1,3 @@
+model,accuracy,confusion_matrix,tn,fp,fn,tp,TPR/Recall,TNR/Specificity,PPV/Precision,NPV
+<tensorflow.python.keras.engine.sequential.Sequential object at 0x7f8b27586490>,0.9350000023841858,"[[1079  119]
+ [  37 1165]]",1079,119,37,1165,0.9692179700499168,0.9006677796327212,0.9073208722741433,0.9668458781362007
