@@ -8,4 +8,4 @@ Post-hurricane damage assessment is crucial towards managing resource allocation
 
 **Keywords**: Neural Network, Convolutional Neural Network, Image Classification, Hurricane Damage Assessment
 
-Full Paper: https://docs.google.com/document/d/10hyP6SNfGbpPRGeF7Uvuhr6wRvT47HT13lphfyT3C_g/edit?usp=sharing
+Full Paper: https://arxiv.org/abs/2209.02124
